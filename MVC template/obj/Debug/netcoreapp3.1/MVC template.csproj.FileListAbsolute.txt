@@ -1,0 +1,45 @@
+c:\Users\Dev\Desktop\Projects - Neven\MVC template\bin\Debug\netcoreapp3.1\appsettings.Development.json
+c:\Users\Dev\Desktop\Projects - Neven\MVC template\bin\Debug\netcoreapp3.1\appsettings.json
+c:\Users\Dev\Desktop\Projects - Neven\MVC template\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+c:\Users\Dev\Desktop\Projects - Neven\MVC template\bin\Debug\netcoreapp3.1\MVC template.exe
+C:\Users\Dev\Desktop\Projects - Neven\MVC template\bin\Debug\netcoreapp3.1\MVC template.deps.json
+C:\Users\Dev\Desktop\Projects - Neven\MVC template\bin\Debug\netcoreapp3.1\MVC template.runtimeconfig.json
+C:\Users\Dev\Desktop\Projects - Neven\MVC template\bin\Debug\netcoreapp3.1\MVC template.runtimeconfig.dev.json
+c:\Users\Dev\Desktop\Projects - Neven\MVC template\bin\Debug\netcoreapp3.1\MVC template.dll
+c:\Users\Dev\Desktop\Projects - Neven\MVC template\bin\Debug\netcoreapp3.1\MVC template.pdb
+C:\Users\Dev\Desktop\Projects - Neven\MVC template\bin\Debug\netcoreapp3.1\MVC template.Views.dll
+c:\Users\Dev\Desktop\Projects - Neven\MVC template\bin\Debug\netcoreapp3.1\MVC template.Views.pdb
+c:\Users\Dev\Desktop\Projects - Neven\MVC template\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+c:\Users\Dev\Desktop\Projects - Neven\MVC template\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+c:\Users\Dev\Desktop\Projects - Neven\MVC template\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+c:\Users\Dev\Desktop\Projects - Neven\MVC template\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+c:\Users\Dev\Desktop\Projects - Neven\MVC template\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+c:\Users\Dev\Desktop\Projects - Neven\MVC template\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+c:\Users\Dev\Desktop\Projects - Neven\MVC template\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+c:\Users\Dev\Desktop\Projects - Neven\MVC template\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+c:\Users\Dev\Desktop\Projects - Neven\MVC template\obj\Debug\netcoreapp3.1\MVC template.csprojAssemblyReference.cache
+c:\Users\Dev\Desktop\Projects - Neven\MVC template\obj\Debug\netcoreapp3.1\staticwebassets\MVC template.StaticWebAssets.Manifest.cache
+c:\Users\Dev\Desktop\Projects - Neven\MVC template\obj\Debug\netcoreapp3.1\staticwebassets\MVC template.StaticWebAssets.xml
+c:\Users\Dev\Desktop\Projects - Neven\MVC template\obj\Debug\netcoreapp3.1\MVC template.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\Dev\Desktop\Projects - Neven\MVC template\obj\Debug\netcoreapp3.1\MVC template.RazorAssemblyInfo.cache
+c:\Users\Dev\Desktop\Projects - Neven\MVC template\obj\Debug\netcoreapp3.1\MVC template.RazorAssemblyInfo.cs
+c:\Users\Dev\Desktop\Projects - Neven\MVC template\obj\Debug\netcoreapp3.1\MVC template.AssemblyInfoInputs.cache
+c:\Users\Dev\Desktop\Projects - Neven\MVC template\obj\Debug\netcoreapp3.1\MVC template.AssemblyInfo.cs
+c:\Users\Dev\Desktop\Projects - Neven\MVC template\obj\Debug\netcoreapp3.1\MVC template.TagHelpers.input.cache
+c:\Users\Dev\Desktop\Projects - Neven\MVC template\obj\Debug\netcoreapp3.1\MVC template.TagHelpers.output.cache
+c:\Users\Dev\Desktop\Projects - Neven\MVC template\obj\Debug\netcoreapp3.1\MVC template.RazorCoreGenerate.cache
+c:\Users\Dev\Desktop\Projects - Neven\MVC template\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+c:\Users\Dev\Desktop\Projects - Neven\MVC template\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+c:\Users\Dev\Desktop\Projects - Neven\MVC template\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+c:\Users\Dev\Desktop\Projects - Neven\MVC template\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+c:\Users\Dev\Desktop\Projects - Neven\MVC template\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+c:\Users\Dev\Desktop\Projects - Neven\MVC template\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+c:\Users\Dev\Desktop\Projects - Neven\MVC template\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+c:\Users\Dev\Desktop\Projects - Neven\MVC template\obj\Debug\netcoreapp3.1\MVC template.RazorTargetAssemblyInfo.cache
+c:\Users\Dev\Desktop\Projects - Neven\MVC template\obj\Debug\netcoreapp3.1\MVC template.RazorTargetAssemblyInfo.cs
+c:\Users\Dev\Desktop\Projects - Neven\MVC template\obj\Debug\netcoreapp3.1\MVC template.Views.pdb
+C:\Users\Dev\Desktop\Projects - Neven\MVC template\obj\Debug\netcoreapp3.1\MVC template.csproj.CopyComplete
+c:\Users\Dev\Desktop\Projects - Neven\MVC template\obj\Debug\netcoreapp3.1\MVC template.dll
+c:\Users\Dev\Desktop\Projects - Neven\MVC template\obj\Debug\netcoreapp3.1\MVC template.pdb
+c:\Users\Dev\Desktop\Projects - Neven\MVC template\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+c:\Users\Dev\Desktop\Projects - Neven\MVC template\obj\Debug\netcoreapp3.1\Razor\Views\Shared\json.cshtml.g.cs

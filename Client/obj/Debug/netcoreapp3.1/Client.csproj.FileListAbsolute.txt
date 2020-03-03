@@ -1,0 +1,14 @@
+c:\Users\Dev\Desktop\Projects - Neven\Client\obj\Debug\netcoreapp3.1\Client.csprojAssemblyReference.cache
+c:\Users\Dev\Desktop\Projects - Neven\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfoInputs.cache
+c:\Users\Dev\Desktop\Projects - Neven\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfo.cs
+c:\Users\Dev\Desktop\Projects - Neven\Client\bin\Debug\netcoreapp3.1\Client.exe
+C:\Users\Dev\Desktop\Projects - Neven\Client\bin\Debug\netcoreapp3.1\Client.deps.json
+C:\Users\Dev\Desktop\Projects - Neven\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.json
+C:\Users\Dev\Desktop\Projects - Neven\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.dev.json
+c:\Users\Dev\Desktop\Projects - Neven\Client\bin\Debug\netcoreapp3.1\Client.dll
+c:\Users\Dev\Desktop\Projects - Neven\Client\bin\Debug\netcoreapp3.1\Client.pdb
+c:\Users\Dev\Desktop\Projects - Neven\Client\bin\Debug\netcoreapp3.1\IdentityModel.dll
+c:\Users\Dev\Desktop\Projects - Neven\Client\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Dev\Desktop\Projects - Neven\Client\obj\Debug\netcoreapp3.1\Client.csproj.CopyComplete
+c:\Users\Dev\Desktop\Projects - Neven\Client\obj\Debug\netcoreapp3.1\Client.dll
+c:\Users\Dev\Desktop\Projects - Neven\Client\obj\Debug\netcoreapp3.1\Client.pdb
