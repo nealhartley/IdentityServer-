@@ -39,11 +39,7 @@ namespace IdentityServer
                 new Client 
                 {
                     ClientId = "mvc",
-
-                    ClientSecrets = 
-                    {
-                        new Secret("secret".Sha256())
-                    },
+                    ClientSecrets = { new Secret("secret".Sha256()) },
 
                     AllowedGrantTypes = GrantTypes.Code,
                     RequireConsent = false,

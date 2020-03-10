@@ -28,17 +28,17 @@ namespace MVC_template.Controllers
             return View();
         }
 
-        public async Task<IActionResult> CallApi()
-        {
-            var accessToken = await HttpContext.GetTokenAsync("access_token");
+        // public async Task<IActionResult> CallApi()
+        // {
+        //     var accessToken = await HttpContext.GetTokenAsync("access_token");
 
-            var client = new HttpClient();
-            client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", accessToken);
-            var content = await client.GetStringAsync("http://localhost:5001/identity");
+        //     var client = new HttpClient();
+        //     client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", accessToken);
+        //     var content = await client.GetStringAsync("http://localhost:5001/identity");
 
-            ViewBag.Json = JArray.Parse(content).ToString();
-            return View("json");
-        }
+        //     ViewBag.Json = JArray.Parse(content).ToString();
+        //     return View("json");
+        // }
 
         public IActionResult Privacy()
         {
@@ -54,6 +54,18 @@ namespace MVC_template.Controllers
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        }
+
+        public async Task<IActionResult> CallApi()
+        {
+            var accessToken = await HttpContext.GetTokenAsync("access_token");
+
+            var client = new HttpClient();
+            client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", accessToken);
+            var content = await client.GetStringAsync("http://localhost:8000/identity");
+
+            ViewBag.Json = JArray.Parse(content).ToString();
+            return View("json");
         }
 
         

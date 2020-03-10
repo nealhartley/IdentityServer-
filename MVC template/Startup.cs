@@ -41,11 +41,12 @@ namespace MVC_template
 
                 options.ClientId = "mvc";
                 options.ClientSecret = "secret";
-                options.ResponseType = "id_token token";
+                options.ResponseType = "code";
+                options.UsePkce = true;
 
                 options.SaveTokens = true;
 
-                options.Scope.Add("My API");
+                options.Scope.Add("api1");
                 options.Scope.Add("offline_access");
             });
 
@@ -74,10 +75,12 @@ namespace MVC_template
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapControllerRoute(
-                    name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}")
+                endpoints.MapDefaultControllerRoute()
                     .RequireAuthorization();
+                // endpoints.MapControllerRoute(
+                //     name: "default",
+                //     pattern: "{controller=Home}/{action=Index}/{id?}")
+                //     .RequireAuthorization();
             });
         }
     }
